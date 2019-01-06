@@ -1,0 +1,16 @@
+[
+{
+  "modid": "worldbook",
+  "name": "World Book",
+  "description": "Easily manage multiple worlds!.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jaredlll08"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
