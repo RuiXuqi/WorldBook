@@ -1,6 +1,5 @@
 package com.blamejared.worldbook.client.gui;
 
-import com.google.common.collect.Lists;
 import net.minecraft.client.*;
 import net.minecraft.client.gui.*;
 import net.minecraft.client.resources.I18n;

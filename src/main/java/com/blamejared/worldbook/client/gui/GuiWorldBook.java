@@ -6,7 +6,6 @@ import org.lwjgl.input.Mouse;
 
 import java.io.IOException;
 
-
 public class GuiWorldBook extends GuiWorldSelection {
     
     
